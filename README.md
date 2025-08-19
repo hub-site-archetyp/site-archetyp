@@ -58,4 +58,6 @@ This guide is presented solely for educational purposes. The information provide
 
 
 
-Update:  13.08.2025 Fixed broken link, now reachable and live
+
+
+Update:  Tuesday 19 August 2025 Fixed broken url
